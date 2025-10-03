@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "vercel-build": "builds"
+  },
+  
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
